@@ -1,6 +1,6 @@
 # 📚 Spring Boot JPA - API de Gerenciamento
 
-Este projeto é uma aplicação backend desenvolvida com Spring Boot, com foco na construção de uma API REST e na persistência de dados utilizando JPA (Java Persistence API). A aplicação segue uma arquitetura em camadas, promovendo organização, escalabilidade e boas práticas de desenvolvimento.
+Este projeto é uma aplicação backend desenvolvida com Spring Boot, com foco na construção de uma API REST e na persistência de dados utilizando JPA. A aplicação segue uma arquitetura em camadas, promovendo organização, escalabilidade e boas práticas de desenvolvimento.
 
 ## 🚀 Funcionalidades
 
